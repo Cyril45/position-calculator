@@ -5,7 +5,7 @@ Position calculator est un calculateur de taille de position il permet aux trade
 
 ## Ça sert a quoi? comment ça marche?
 
-Pour ne pas surcharger cette page, j'ai créer un fichier PDF qui ce nomme **Information.pdf**
+Pour ne pas surcharger cette page, j'ai créer un fichier PDF qui ce nomme [**Information.pdf**](https://github.com/Cyril45/position-calculator/raw/main/Information.pdf)
 
 
 
@@ -27,4 +27,4 @@ python start.py
 ## Pour les utilisateurs non-développeurs
 J'ai créer un exécutable Windows que vous pouvez télécharger directement.
 
-L'exécutable ce nomme => **Position calculator.exe**
+L'exécutable ce nomme => [**Position calculator.exe**](https://github.com/Cyril45/position-calculator/raw/main/Position%20calculator.exe)
